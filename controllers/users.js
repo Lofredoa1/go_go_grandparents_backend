@@ -1,11 +1,7 @@
 /**
  * Users Controller
- * @author Una Ada <una@anarchy.website>
- * @version 2021.08.10
- * @since 2021.08.02
- * @module controllers/users
- * @see module:models/user
- * @see module:routes/users
+ * @version 2021.11.15
+ * @since 2021.11.15
  */
 
 /*----- Imports --------------------------------------------------------------*/

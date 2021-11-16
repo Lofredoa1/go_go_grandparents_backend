@@ -19,7 +19,7 @@ dotenv.config();
 * {@link https://techsparx.com/nodejs/esnext/dirname-es-modules.html}
 */
 const __dirname = path.dirname(new URL(import.meta.url).pathname),
-  debug = Debug('bopomo:server'),
+  debug = Debug('ggg:server'),
   app = express();
 
 /*----- Middleware -----------------------------------------------------------*/
